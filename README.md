@@ -7,7 +7,7 @@
 3. Redux-toolkit
 4. React Icons
 
-Implimented react router and react-redux and you can use bootstrap and you also you can change react icons dynamically.
+Implimented react router and react-redux and you can use bootstrap and also you can change react icons dynamically.
 
 ## Now write meta tags for each pages you create.
 
