@@ -20,7 +20,7 @@ Just import `Helmet` from `react-helmet-async` inside you component and write it
 ```js
   <Helmet>
     <title>Hello World</title>
-    <link rel="canonical" href="https://www.tacobell.com/" />
+    <link rel="canonical" href="https://www.plazmacloud.com/" />
   </Helmet>
 ```
 Inside every Page of your applicattion for which you want to change meta tag.
