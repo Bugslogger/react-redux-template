@@ -6,6 +6,7 @@
 2. Bootstrap
 3. Redux-toolkit
 4. React Icons
+5. React Helmet
 
 Implimented react router and react-redux and you can use bootstrap and also you can change react icons dynamically.
 
@@ -23,7 +24,7 @@ Just import `Helmet` from `react-helmet-async` inside you component and write it
     <link rel="canonical" href="https://www.plazmacloud.com/" />
   </Helmet>
 ```
-Inside every Page of your applicattion for which you want to change meta tag.
+Inside every Page of your applicattion for which you want to change meta tags dynamically.
 
 ## Version
 
@@ -34,3 +35,4 @@ Inside every Page of your applicattion for which you want to change meta tag.
 5. react-redux v.8
 6. react-scripts v.5
 7. react-icons v.4.8
+8. react-helmet-async v.1.3.0
